@@ -1,4 +1,6 @@
 With the new versions available, it's tough to find a guide.
 Here is a link to the most helpful blog to install mongodb and its shell.
 https://www.knowledgehut.com/blog/web-development/install-mongodb-on-windows
-Note: Do not forget to add a '\' after you copy the bin path to the environment variable.
+Note:
+1.)Do not forget to add a '\' after you copy the bin path to the environment variable.
+2.)27017 is the default port number.
